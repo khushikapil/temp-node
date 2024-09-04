@@ -1,0 +1,8 @@
+Node has bunch of built in modules that we can use freely in our apps
+1. OS
+2. Path
+3. FS
+4. HTTP
+Read documentation from nodejs.org
+
+
